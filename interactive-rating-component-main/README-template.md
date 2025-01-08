@@ -13,14 +13,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop-preview](./images/desktop-preview.png)
+![Desktop-thank-you](./images/desktop-thankYou.png)
+![Mobile-preview](./images/mobile-preview.png)
+![Mobile-thank-you](./images/mobile-thankYou.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL](http://127.0.0.1:5500/interactive-rating-component-main/index.html)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
 
 ### Built with
 
