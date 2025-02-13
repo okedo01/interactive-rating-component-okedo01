@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](http://127.0.0.1:5500/interactive-rating-component-main/index.html)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/okedo01/interactive-rating-component-okedo01)
+- Live Site URL: [Live site URL](https://okedo01-interactive-rating-component.netlify.app/)
 
 ### Built with
 
